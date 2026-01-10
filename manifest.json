@@ -1,0 +1,9 @@
+{
+	"id": "customer-tag-sorter",
+	"name": "Customer Tag Sorter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Automatically sorts notes into customer folders based on the Customer tag in frontmatter.",
+	"author": "Robert Stickler",
+	"isDesktopOnly": false
+}
