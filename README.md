@@ -61,14 +61,12 @@ bun run dev
 bun run build
 ```
 
-## Part of the BytesAndParty Plugin Suite
+## Works Well with Other BytesAndParty Plugins
 
-This plugin works great alongside other plugins from the same author:
-
-- [Auto Categories](https://github.com/BytesAndParty/Obsidian_AutoCategories) - Automatically create category pages from frontmatter
-- [Better Gitignore](https://github.com/BytesAndParty/BetterGitignore) - Beautiful .gitignore editor with templates
-- [Command Overview](https://github.com/BytesAndParty/CommandOverview) - Quick command palette with shortcuts
-- [Company Knowledge Hub](https://github.com/BytesAndParty/CompanyKnowledgeHub) - Publish notes to a shared knowledge base
+- [Auto Categories](https://github.com/BytesAndParty/Obsidian_AutoCategories) - Use customer folders and topic categories in parallel.
+- [Company Knowledge Hub](https://github.com/BytesAndParty/CompanyKnowledgeHub) - Sort notes by customer first, then publish a clean subset to `PUBLIC/`.
+- [Command Overview](https://github.com/BytesAndParty/CommandOverview) - Trigger "Sort files by Customer tag" quickly from keyboard.
+- [Copy File Path](https://github.com/BytesAndParty/CopyFilePath) - Copy exact paths after sorting to share or automate follow-up steps.
 
 ## License
 
